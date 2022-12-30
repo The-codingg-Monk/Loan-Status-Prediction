@@ -1,0 +1,1 @@
+https://www.kaggle.com/code/renatevankempen/loan-status-prediction-notebook/data?select=test_Y3wMUE5_7gLdaTN.csv
